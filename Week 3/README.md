@@ -16,4 +16,3 @@ Using a real Groceries transactional dataset, rule mining was applied to find it
 ## Files in this Directory
 *   `week3_clustering.ipynb` - Unsupervised clustering and segmentation.
 *   `week3_association_rules.ipynb` - Frequent itemset and rule generation.
-*   `requirements.txt` - Project dependencies.
