@@ -12,7 +12,7 @@ The goal of this repository is to document my practical learning path ranging fr
 | :--- | :--- | :--- | :--- |
 | **Week 01** | Python Data Stack | Foundational practice with Pandas, NumPy, and data cleaning | ✅ Completed |
 | **Week 02** | EDA & Baseline Regression | Steel Industry Energy Consumption EDA & Model Benchmarking | ✅ Completed |
-| **Week 03** | *To be updated* | Upcoming tasks and projects | ⏳ Pending |
+| **Week 03** | Unsupervised Learning | Customer Segmentation (Clustering) & Market Basket Analysis (Association Rules) | ✅ Completed |
 | **Week 04** | *To be updated* | Upcoming tasks and projects | ⏳ Pending |
 | **Week 05** | *To be updated* | Upcoming tasks and projects | ⏳ Pending |
 | **Week 06** | *To be updated* | Upcoming tasks and projects | ⏳ Pending |
