@@ -13,8 +13,8 @@ The goal of this repository is to document my practical learning path ranging fr
 | **Week 01** | Python Data Stack | Foundational practice with Pandas, NumPy, and data cleaning | ✅ Completed |
 | **Week 02** | EDA & Baseline Regression | Steel Industry Energy Consumption EDA & Model Benchmarking | ✅ Completed |
 | **Week 03** | Unsupervised Learning | Customer Segmentation (Clustering) & Market Basket Analysis (Association Rules) | ✅ Completed |
-| **Week 04** | Forecasting & Deep Learning | ARIMA/Prophet time-series pipelines & Deep Learning (ANN, CNN, RNN, YOLO) | ✅ Completed |
-| **Week 05** | *To be updated* | Upcoming tasks and projects | ⏳ Pending |
+| **Week 04** | Forecasting & Deep Learning | ARIMA/Prophet time series pipelines & Deep Learning (ANN, CNN, RNN, YOLO) | ✅ Completed |
+| **Week 05** | Deep Learning Architectures | Spatial vs Sequential MRI Classification (CNN, RNN, LSTM) - *See [NexGen NeuroVision](https://github.com/saadullah-cs/NexGen-NeuroVision)* | ✅ Completed |
 | **Week 06** | *To be updated* | Upcoming tasks and projects | ⏳ Pending |
 | **Week 07** | *To be updated* | Upcoming tasks and projects | ⏳ Pending |
 | **Week 08** | *To be updated* | Upcoming tasks and projects | ⏳ Pending |
